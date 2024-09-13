@@ -82,8 +82,8 @@ color: var(--main-color);
 }
 
 .home-img img {
-    width: 280px;
-    animation: floatImage 4s ease-in-out infinite;
+    width: 260px;
+    animation: floatImage  ease-in-out infinite;
 }
 
 @keyframes floatImage {
